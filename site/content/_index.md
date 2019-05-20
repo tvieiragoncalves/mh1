@@ -18,24 +18,16 @@ intro:
     crónica. Sob a orientação de quatro profissionais da área da saúde mental, a
     tempo inteiro, com forte experiência profissional multifacetada, visa a
     aplicação de práticas inovadoras de intervenção em contexto de internamento
-    psiquiátrico. Focamos a nossa intervenção na pessoa, na individualidade de
-    cada um e no planeamento específico e adaptado visando o objetivo comum de
-    alcançar estabilidade psíquica, a reabilitação e posterior reintegração
-    psicossocial, através da definição e motivação para um projeto pessoal
-    abrangente, a nível escolar/académico, profissional, físico, artístico e
-    lúdico. A componente do internamento, em ambiente sob desígnio de ambiente
-    familiar, continente e protetor, com espaços aprazíveis, que conjugados com
-    metodologias de intervenção especializadas e inovadoras, visam obter
-    resultados mais eficazes e mais eficientes. 
+    psiquiátrico. 
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/iconfinder_580_search_medical_glass_4212192.svg
     text: >-
       We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
       communities. Check our post or contact us directly for current
       availability.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/home.png
     text: >-
       We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
