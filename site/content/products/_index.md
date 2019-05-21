@@ -14,25 +14,23 @@ description: >-
 intro:
   blurbs:
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
+      heading: Psicoterapia de Grupo
       text: >
-        <h1>Psicoterapia de Grupo </h1>
-
 
         As sessões de grupo são realizadas pela equipa de psicólogos clínicos,
         com vários utentes, incentivando aos mesmos o apoio mútuo em contexto
         comunitário.
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
+      heading: Psquiatria
       text: >+
-        <h1>Psquiatria </h1>
-
 
         A consulta de psiquiatria tem como objetivo o diagnóstico, elaboração e
         implementação de um tratamento com base na terapêutica farmacológica
         cujo objetivo é a estabilização da perturbação mental.
 
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
+      heading: Atividades desportivas, ocupacionais e lúdicas
       text: >+
-        <h1>Atividades desportivas, ocupacionais e lúdicas  </h1>
 
 
         A equipa da Casa da Oliveira proporciona uma articulação direta entre a
@@ -40,9 +38,8 @@ intro:
         utentes na vida social.
 
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
+      heading: Reinserção escolar, laboral e social
       text: >+
-        <h1>Reinserção escolar, laboral e social </h1>
-
 
         Com a realização destas atividades é promovido ao utente e ao grupo o
         equilíbrio, desenvolvimento pessoal, bem como a interação positiva entre
@@ -68,7 +65,7 @@ main:
     Após o tratamento, a Casa da Oliveira proporciona um acompanhamento
     psicoterapêutico e psiquiátrico ao utente em regime de ambulatório, por
     forma a manter e otimizar os resultados conseguidos ao longo do tratamento
-    de internamento, diminuindo também a possibilidade de recaída. 
+    de internamento, diminuindo também a possibilidade de recaída.
 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
@@ -118,4 +115,3 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
