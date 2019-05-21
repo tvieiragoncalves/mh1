@@ -1,5 +1,5 @@
 ---
-title: A DEPRESSÃO E A IDEAÇÃO SUICIDA
+title: A depressão e a ideação suicida.
 date: 2019-05-21T09:48:48.901Z
 description: >-
   A depressão é frequentemente acompanhada de sintomatologia cognitiva , sendo a
