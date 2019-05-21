@@ -1,8 +1,8 @@
 ---
 title: Contact
-logo: /img/whatsapp-image-2019-05-09-at-16.18.02-1-.jpeg
+logo: /img/1.jpeg
 contact_entries:
-  - heading: Location
+  - heading: Localização
     text: '3153 Lynn Avenue, South San Francisco, California 94080'
   - heading: Working hours
     text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'

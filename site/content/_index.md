@@ -18,7 +18,7 @@ intro:
     crónica. Sob a orientação de quatro profissionais da área da saúde mental, a
     tempo inteiro, com forte experiência profissional multifacetada, visa a
     aplicação de práticas inovadoras de intervenção em contexto de internamento
-    psiquiátrico. 
+    psiquiátrico.
 products:
   - image: /img/iconfinder_580_search_medical_glass_4212192.svg
     text: >-
@@ -41,4 +41,3 @@ values:
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
 ---
-
