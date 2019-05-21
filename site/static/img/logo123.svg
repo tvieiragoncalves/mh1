@@ -5,5 +5,6 @@
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="960px" height="560px"
 	 viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve">
 <title>Logo</title>
-<text transform="matrix(1 0 0 1 115.5 127.5)"><tspan x="0" y="0" fill="#EF2B2B" font-family="'Copperplate-Bold'" font-size="170">Casa </tspan><tspan x="0" y="204" fill="#EF2B2B" font-family="'Copperplate-Bold'" font-size="170">da</tspan><tspan x="0" y="408" fill="#EF2B2B" font-family="'Copperplate-Bold'" font-size="170"> Oliveira</tspan></text>
+<image overflow="visible" width="834" height="531" xlink:href="8E8EACB9BB606E83.png"  transform="matrix(1 0 0 1 79.5 89.5)">
+</image>
 </svg>
