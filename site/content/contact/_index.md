@@ -1,11 +1,9 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: /img/logito.png
 contact_entries:
   - heading: Localização
     text: '3153 Lynn Avenue, South San Francisco, California 94080'
-  - heading: Working hours
-    text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
 ---
 Gostariamos que nos contactasse para que possamos esclarecer
 as dúvidas que poderá ter em relação à nossa clínica. Partilhe
