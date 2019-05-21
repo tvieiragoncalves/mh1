@@ -1,74 +1,94 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
-heading: What we offer
+title: Os nossos serviços
+image: /img/nathan-anderson-157614-unsplash.jpg
+heading: Psicoterapia individual
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  a Psicoterapia tem como objetivo auxiliar a pessoa a lidar com as suas
+  dificuldades, sejam elas a nível da saúde mental, emocional ou relacional. A
+  través da cooperação entre o psicólogo e o utente são estabelecidos os
+  objetivos terapêuticos, com a finalidade de desenvolver competências que
+  promovam formas mais eficazes de lidar com as adversidades. Na sessão de
+  psicoterapia é proporcionado um lugar seguro, onde a pessoas se pode expressar
+  livremente com base numa relação de confiança, que tem por base a ética
+  profissional.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        <h1>Psicoterapia de Grupo </h1>
+
+
+        As sessões de grupo são realizadas pela equipa de psicólogos clínicos,
+        com vários utentes, incentivando aos mesmos o apoio mútuo em contexto
+        comunitário.
+    - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
+      text: >+
+        <h1>Psquiatria </h1>
+
+
+        A consulta de psiquiatria tem como objetivo o diagnóstico, elaboração e
+        implementação de um tratamento com base na terapêutica farmacológica
+        cujo objetivo é a estabilização da perturbação mental.
+
+    - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
+      text: >+
+        <h1>Atividades desportivas, ocupacionais e lúdicas  </h1>
+
+
+        A equipa da Casa da Oliveira proporciona uma articulação direta entre a
+        clínica e as diversas instituições cujo objetivo é a reintegração dos
+        utentes na vida social.
+
+    - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
+      text: >+
+        <h1>Reinserção escolar, laboral e social </h1>
+
+
+        Com a realização destas atividades é promovido ao utente e ao grupo o
+        equilíbrio, desenvolvimento pessoal, bem como a interação positiva entre
+        si. Salientamos a participação em atividades físicas como a ginástica e
+        piscina; lúdicas, através da participação em diversos ateliers como
+        pintura ou artesanato; atividades ocupacionais, nomeadamente realização
+        de jogos e de lazer como por exemplo passeios ao ar livre.
+
+
+  heading: Psicoterapia individual
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    A Psicoterapia tem como objetivo auxiliar a pessoa a lidar com as suas
+    dificuldades, sejam elas a nível da saúde mental, emocional ou relacional.
+    Através da cooperação entre o psicólogo e o utente são estabelecidos os
+    objetivos terapêuticos, com a finalidade de desenvolver competências que
+    promovam formas mais eficazes de lidar com as adversidades. Na sessão de
+    psicoterapia é proporcionado um lugar seguro, onde a pessoas se pode
+    expressar livremente com base numa relação de confiança, que tem por base a
+    ética profissional.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Follow-up
+  description: >+
+    Após o tratamento, a Casa da Oliveira proporciona um acompanhamento
+    psicoterapêutico e psiquiátrico ao utente em regime de ambulatório, por
+    forma a manter e otimizar os resultados conseguidos ao longo do tratamento
+    de internamento, diminuindo também a possibilidade de recaída. 
+
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/marco-bianchetti-539177-unsplash.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/anna-kolosyuk-551398-unsplash.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/roman-kraft-266787-unsplash.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: AN
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Esta ajuda teve um impacto determinante na minha vida, agradeço a todos a
+      atenção.
+  - author: TG
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Esta ajuda teve um impacto determinante na minha vida, agradeço a todos a
+      atenção.
+full_image: /img/samuel-zeller-358865-unsplash.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
@@ -98,5 +118,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
