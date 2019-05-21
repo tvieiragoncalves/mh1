@@ -22,17 +22,10 @@ intro:
 products:
   - image: /img/iconfinder_580_search_medical_glass_4212192.svg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+      Situada em Coimbra, região centro do país, com acessos rodoviários privilegiados de autoestradas, estradas nacionais e transportes públicos. Inserida num bairro calmo, com a distânica qb do centro da cidade, proporciona um ambiente calmo e agradável aos utentes. A comunidade terapêutica tem à disposição tratamento na área da saúde mental numa vertente integrativa, multidisciplinar num ambiente continente e protetor dirigida a indivíduos de ambos os sexos em regime de internamento e ambulatório.
   - image: /img/home.png
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      Disponibilizamos múltiplos espaços de lazer, como ginásio, material e espaços para leitura, piscina, jardim exterior, sala de convívio para além de material e lugares afetos a atividades individuais e de interação. Dirigimos o nosso trabalho para a reintegração familiar e psicossocial, escolar/académica e profissional. O staff profissional da Casa da Oliveira fará sempre o Follow-up de todos os processos. 
 values:
   heading: O que nos destingue
   text: >-
