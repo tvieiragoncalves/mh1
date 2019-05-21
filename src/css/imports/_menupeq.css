@@ -1,7 +1,7 @@
 
 
 @media (max-width: 960px) {
-  .overflow-x-scroll ul     { display: inline; }
-  .overflow-x-scroll select { display: inline-block; }
-  .overflow-x-scroll line-height { display: inherit; }
+  .overflow-x-scroll ul     { display: horizontal-list; }
+  .overflow-x-scroll ul     { line-height: 20px; }
+  .overflow-x-scroll ul     { font-size: 12px; }
 }
