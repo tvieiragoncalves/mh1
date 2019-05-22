@@ -9,6 +9,11 @@
 .mw5  {  max-width: 16rem; }
 .mw6  {  max-width: 32rem; }
 .mw7  {  max-width: 65rem; }
+.mw7 {
+  max-width: 65rem;
+  -webkit-animation: mymove 5s infinite; /* Safari 4.0 - 8.0 */
+  animation: mymove 5s infinite;
+}
 .mw8  {  max-width: 64rem; }
 .mw9  {  max-width: 96rem; }
 
