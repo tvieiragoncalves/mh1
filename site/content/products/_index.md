@@ -13,15 +13,13 @@ description: >-
   profissional.
 intro:
   blurbs:
-    - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
-      heading: Psicoterapia de Grupo
+    - image: /img/iconfinder_m-19_4230564.png
       text: >
 
         As sessões de grupo são realizadas pela equipa de psicólogos clínicos,
         com vários utentes, incentivando aos mesmos o apoio mútuo em contexto
         comunitário.
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
-      heading: Psquiatria
       text: >+
 
         A consulta de psiquiatria tem como objetivo o diagnóstico, elaboração e
@@ -29,7 +27,6 @@ intro:
         cujo objetivo é a estabilização da perturbação mental.
 
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
-      heading: Atividades desportivas, ocupacionais e lúdicas
       text: >+
 
 
@@ -38,7 +35,6 @@ intro:
         utentes na vida social.
 
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
-      heading: Reinserção escolar, laboral e social
       text: >+
 
         Com a realização destas atividades é promovido ao utente e ao grupo o
@@ -86,32 +82,5 @@ testimonials:
       Esta ajuda teve um impacto determinante na minha vida, agradeço a todos a
       atenção.
 full_image: /img/samuel-zeller-358865-unsplash.jpg
-#pricing:
-#  heading: Monthly subscriptions
-#  description: >-
-#    We make it easy to make great coffee a part of your life. Choose one of our
-#    monthly subscription plans to receive great coffee at your doorstep each
-#    month. Contact us about more details and payment info.
-#  plans:
-#    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-#      items:
-#        - 3 lbs of coffee per month
-#        - Green or roasted beans"
-#        - One or two varieties of beans"
-#      plan: Small
-#      price: '50'
-#    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
-#      items:
-#        - 6 lbs of coffee per month
-#        - Green or roasted beans
-#        - Up to 4 different varieties of beans
-#      plan: Big
-#      price: '80'
-#    - description: Want a few tiny batches from different varieties? Try our custom plan
-#      items:
-#        - Whatever you need
-#        - Green or roasted beans
-#        - Unlimited varieties
-#      plan: Custom
-#      price: '?'
 ---
+
