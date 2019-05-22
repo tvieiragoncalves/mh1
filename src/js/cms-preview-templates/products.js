@@ -7,7 +7,7 @@ export default class PostPreview extends React.Component {
   render() {
     const {entry, getAsset} = this.props;
     let image = getAsset(entry.getIn(["data", "image"]));
-
+    // Atenção a  linha 27 coloca os headings no sítio mas vai buscar os headings da parte do follow-up - perceber o que se passa
     // Bit of a nasty hack to make relative paths work as expected as a background image here
     if (image && !image.fileObj) {
       image = window.parent.location.protocol + "//" + window.parent.location.host + image;
@@ -24,7 +24,6 @@ export default class PostPreview extends React.Component {
           <div className="flex-ns flex-wrap mhn2-ns mb3">
             {(entry.getIn(["data", "intro", "blurbs"]) || []).map((blurb, index) => <div className="ph2-ns w-50-ns mb4" key={index}>
               <img src={blurb.get("image") && getAsset(blurb.get("image"))} alt="" className="center db mb3" style={{width: "240px"}}/>
-    // Atenção a próxima linha coloca os headings no sítio mas vai buscar os headings da parte do follow-up - perceber o que se passa
               <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "blurbs", "heading"])}</h2>
               <p>{blurb.get("text")}</p>
             </div>)}
