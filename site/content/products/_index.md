@@ -14,12 +14,14 @@ description: >-
 intro:
   blurbs:
     - image: /img/iconfinder_m-19_4230564.png
+      heading: Psicoterapia de Grupo
       text: >
 
         As sessões de grupo são realizadas pela equipa de psicólogos clínicos,
         com vários utentes, incentivando aos mesmos o apoio mútuo em contexto
         comunitário.
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
+      heading: Psquiatria
       text: >+
 
         A consulta de psiquiatria tem como objetivo o diagnóstico, elaboração e
@@ -27,6 +29,7 @@ intro:
         cujo objetivo é a estabilização da perturbação mental.
 
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
+      heading: Atividades desportivas, ocupacionais e lúdicas
       text: >+
 
 
@@ -35,6 +38,7 @@ intro:
         utentes na vida social.
 
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
+      heading: Reinserção escolar, laboral e social
       text: >+
 
         Com a realização destas atividades é promovido ao utente e ao grupo o
@@ -83,4 +87,3 @@ testimonials:
       atenção.
 full_image: /img/samuel-zeller-358865-unsplash.jpg
 ---
-
