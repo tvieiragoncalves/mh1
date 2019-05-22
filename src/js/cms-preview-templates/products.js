@@ -24,6 +24,7 @@ export default class PostPreview extends React.Component {
           <div className="flex-ns flex-wrap mhn2-ns mb3">
             {(entry.getIn(["data", "intro", "blurbs"]) || []).map((blurb, index) => <div className="ph2-ns w-50-ns mb4" key={index}>
               <img src={blurb.get("image") && getAsset(blurb.get("image"))} alt="" className="center db mb3" style={{width: "240px"}}/>
+              // Atenção a próxima linha coloca os headings no sítio mas vai buscar os headings da parte do follow-up - perceber o que se passa  
               <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "main", "heading"])}</h2>
               <p>{blurb.get("text")}</p>
             </div>)}
