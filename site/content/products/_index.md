@@ -31,6 +31,9 @@ intro:
         As sessões de grupo são realizadas pela equipa de psicólogos clínicos,
         com vários utentes, incentivando aos mesmos o apoio mútuo em contexto
         comunitário.
+    - image: /img/iconfinder_m-19_4230564.png
+      heading: Enfermagem
+      text: Enfermagem especializada em psiquiatria e saúde mental…….
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
       heading: 'Atividades desportivas, ocupacionais e lúdicas'
       text: >+
