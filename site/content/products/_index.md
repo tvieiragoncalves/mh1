@@ -5,9 +5,6 @@ heading: 'Serviços de Internamento, psiquiatria e psicoterapia'
 description: dnvwehvuienvuwnvwuhvurhvuehkuwh Tiagodjvlknvnvjknvkjvnkjwnvkjbwe Tiago
 intro:
   blurbs:
-    - image: /img/home.png
-      heading: Internamento
-      text: dgkuhkhweiuuiwebviuwebvubwevuibweiuvbweuibvuwibvuweibviuwebuwebviueb
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
       heading: Psquiatria
       text: >+
@@ -55,7 +52,7 @@ intro:
         de jogos e de lazer como por exemplo passeios ao ar livre.
 
 
-  heading: Os nossos serviços
+  heading: Internamentos Psiquiátricos
   description: >-
     dwfwhebfebcbec  ebiwebfiuebfieb knen ebwoebc  kebc kcowebck l eonkv nkjwe
     bekjb cvwejb kbekb k kec kb jeb ckb kjbdkc kbkjbck  kjebdkcb k k cjwbek jkwb
