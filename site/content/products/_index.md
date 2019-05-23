@@ -49,6 +49,9 @@ intro:
         de jogos e de lazer como por exemplo passeios ao ar livre.
 
 
+    - image: /img/home.png
+      heading: Internamento
+      text: dgkuhkhweiuuiwebviuwebvubwevuibweiuvbweuibvuwibvuweibviuwebuwebviueb
   heading: Psicoterapia individual
   description: >
     A Psicoterapia tem como objetivo auxiliar a pessoa a lidar com as suas
