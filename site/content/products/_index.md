@@ -1,25 +1,13 @@
 ---
 title: Os nossos serviços
 image: /img/nathan-anderson-157614-unsplash.jpg
-heading: Psicoterapia individual
-description: >-
-  a Psicoterapia tem como objetivo auxiliar a pessoa a lidar com as suas
-  dificuldades, sejam elas a nível da saúde mental, emocional ou relacional. A
-  través da cooperação entre o psicólogo e o utente são estabelecidos os
-  objetivos terapêuticos, com a finalidade de desenvolver competências que
-  promovam formas mais eficazes de lidar com as adversidades. Na sessão de
-  psicoterapia é proporcionado um lugar seguro, onde a pessoas se pode expressar
-  livremente com base numa relação de confiança, que tem por base a ética
-  profissional.
+heading: 'Serviços de Internamento, psiquiatria e psicoterapia'
+description: dnvwehvuienvuwnvwuhvurhvuehkuwh Tiagodjvlknvnvjknvkjvnkjwnvkjbwe Tiago
 intro:
   blurbs:
-    - image: /img/iconfinder_m-19_4230564.png
-      heading: Psicoterapia de Grupo
-      text: >
-
-        As sessões de grupo são realizadas pela equipa de psicólogos clínicos,
-        com vários utentes, incentivando aos mesmos o apoio mútuo em contexto
-        comunitário.
+    - image: /img/home.png
+      heading: Internamento
+      text: dgkuhkhweiuuiwebviuwebvubwevuibweiuvbweuibvuwibvuweibviuwebuwebviueb
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
       heading: Psquiatria
       text: >+
@@ -28,6 +16,24 @@ intro:
         implementação de um tratamento com base na terapêutica farmacológica
         cujo objetivo é a estabilização da perturbação mental.
 
+    - image: /img/iconfinder_m-19_4230564.png
+      heading: Psicoterapia Individual
+      text: >-
+        a Psicoterapia tem como objetivo auxiliar a pessoa a lidar com as suas
+        dificuldades, sejam elas a nível da saúde mental, emocional ou
+        relacional. A través da cooperação entre o psicólogo e o utente são
+        estabelecidos os objetivos terapêuticos, com a finalidade de desenvolver
+        competências que promovam formas mais eficazes de lidar com as
+        adversidades. Na sessão de psicoterapia é proporcionado um lugar seguro,
+        onde a pessoas se pode expressar livremente com base numa relação de
+        confiança, que tem por base a ética profissional.
+    - image: /img/iconfinder_m-19_4230564.png
+      heading: Psicoterapia de Grupo
+      text: >
+
+        As sessões de grupo são realizadas pela equipa de psicólogos clínicos,
+        com vários utentes, incentivando aos mesmos o apoio mútuo em contexto
+        comunitário.
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
       heading: 'Atividades desportivas, ocupacionais e lúdicas'
       text: >+
@@ -49,19 +55,10 @@ intro:
         de jogos e de lazer como por exemplo passeios ao ar livre.
 
 
-    - image: /img/home.png
-      heading: Internamento
-      text: dgkuhkhweiuuiwebviuwebvubwevuibweiuvbweuibvuwibvuweibviuwebuwebviueb
-  heading: Psicoterapia individual
-  description: >
-    A Psicoterapia tem como objetivo auxiliar a pessoa a lidar com as suas
-    dificuldades, sejam elas a nível da saúde mental, emocional ou relacional.
-    Através da cooperação entre o psicólogo e o utente são estabelecidos os
-    objetivos terapêuticos, com a finalidade de desenvolver competências que
-    promovam formas mais eficazes de lidar com as adversidades. Na sessão de
-    psicoterapia é proporcionado um lugar seguro, onde a pessoas se pode
-    expressar livremente com base numa relação de confiança, que tem por base a
-    ética profissional.
+  heading: Os nossos serviços
+  description: >-
+    dwfwhebfebcbec  ebiwebfiuebfieb knen ebwoebc  kebc kcowebck l eonkv nkjwe
+    bekjb cvwejb kbekb k kec kb jeb ckb kjbdkc kbkjbck  kjebdkcb k k cjwbek jkwb
 main:
   heading: Follow-up
   description: >+
