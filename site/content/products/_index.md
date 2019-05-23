@@ -14,7 +14,7 @@ description: >-
 intro:
   blurbs:
     - image: /img/iconfinder_m-19_4230564.png
-      heading: Psicoterapia de Grupo!!
+      heading: Psicoterapia de Grupo
       text: >
 
         As sessões de grupo são realizadas pela equipa de psicólogos clínicos,
