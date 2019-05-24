@@ -33,7 +33,12 @@ intro:
         comunitário.
     - image: /img/iconfinder_m-19_4230564.png
       heading: Enfermagem
-      text: Enfermagem especializada em psiquiatria e saúde mental…….
+      text: >-
+        Enfermagem especializada em psiquiatria e saúde mental.
+
+        A equipa da Casa da Oliveira proporciona uma articulação direta entre a
+        clínica e as diversas instituições cujo objetivo é a reintegração dos
+        utentes na vida social. 
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
       heading: 'Atividades desportivas, ocupacionais e lúdicas'
       text: >+
@@ -57,8 +62,8 @@ intro:
 
   heading: Internamentos Psiquiátricos
   description: >-
-    dwfwhebfebcbec  ebiwebfiuebfieb knen ebwoebc  kebc kcowebck l eonkv nkjwe
-    bekjb cvwejb kbekb k kec kb jeb ckb kjbdkc kbkjbck  kjebdkcb k k cjwbek jkwb
+    O tratamento de perturbações psiquiátricas agudas ou Crónicas poderá
+    beneficiar de um tratamento mais próximo em contexto de internamento. 
 main:
   heading: Follow-up
   description: >+
