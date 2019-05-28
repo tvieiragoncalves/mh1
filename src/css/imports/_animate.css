@@ -1,0 +1,29 @@
+.animate {
+background:#fff;
+    height:85px;
+    z-index:170;
+    margin:0 auto;
+    border-bottom:1px solid #dadada;
+    width:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    text-align: center;
+}
+@media (max-width: 960px) {
+
+  .animate {
+  background:#fff;
+      height:69px;
+      z-index:170;
+      margin:0 auto;
+      border-bottom:1px solid #dadada;
+      width:100%;
+      position:fixed;
+      top:0;
+      left:0;
+      right:0;
+      text-align: center;
+  }
+  }
