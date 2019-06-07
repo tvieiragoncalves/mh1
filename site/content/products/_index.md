@@ -2,7 +2,7 @@
 title: Os nossos serviços
 image: /img/nathan-anderson-157614-unsplash.jpg
 heading: 'Serviços de Internamento, psiquiatria e psicoterapia'
-description: dnvwehvuienvuwnvwuhvurhvuehkuwh Tiagodjvlknvnvjknvkjvnkjwnvkjbwe Tiago
+description: .
 intro:
   blurbs:
     - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
@@ -39,7 +39,7 @@ intro:
         A equipa da Casa da Oliveira proporciona uma articulação direta entre a
         clínica e as diversas instituições cujo objetivo é a reintegração dos
         utentes na vida social. 
-    - image: /img/iconfinder_tilda_icons_1ed_brain_3586372.png
+    - image: /img/iconfinder_casual_exercise_4042256.png
       heading: 'Atividades desportivas, ocupacionais e lúdicas'
       text: >+
 
