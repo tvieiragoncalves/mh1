@@ -1,6 +1,6 @@
 ---
 title: Os nossos serviços
-image: /img/nathan-anderson-157614-unsplash.jpg
+image: /img/whatsapp-image-2019-08-29-at-07.11.36-2-.jpeg
 heading: 'Serviços de Internamento, psiquiatria e psicoterapia'
 description: .
 intro:
