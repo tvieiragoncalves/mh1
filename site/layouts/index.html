@@ -1,9 +1,9 @@
 {{ define "main" }}
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
-
 {{ partial "short-text" .Params.blurb}}
 
+{{ partial "gallery" .Params }}
 {{ partial "2-up" .Params }}
 
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Leia mais" "buttonLink" "/values") }}
