@@ -38,7 +38,7 @@ intro:
 
         A equipa da Casa da Oliveira proporciona uma articulação direta entre a
         clínica e as diversas instituições cujo objetivo é a reintegração dos
-        utentes na vida social. 
+        utentes na vida social.
     - image: /img/iconfinder_casual_exercise_4042256.png
       heading: 'Atividades desportivas, ocupacionais e lúdicas'
       text: >+
@@ -63,7 +63,7 @@ intro:
   heading: Internamentos Psiquiátricos
   description: >-
     O tratamento de perturbações psiquiátricas agudas ou Crónicas poderá
-    beneficiar de um tratamento mais próximo em contexto de internamento. 
+    beneficiar de um tratamento mais próximo em contexto de internamento.
 main:
   heading: Follow-up
   description: >+
@@ -92,5 +92,5 @@ testimonials:
       Esta ajuda teve um impacto determinante na minha vida, agradeço a todos a
       atenção.
 full_image: /img/samuel-zeller-358865-unsplash.jpg
----
 
+---

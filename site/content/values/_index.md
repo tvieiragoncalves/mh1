@@ -24,7 +24,7 @@ values:
       A componente do internamento, em ambiente sob desígnio de ambiente
       familiar, continente e protetor, com espaços aprazíveis, que conjugados
       com metodologias de intervenção especializadas e inovadoras, visam obter
-      resultados mais eficazes e mais eficientes. 
+      resultados mais eficazes e mais eficientes.
 
   - heading: O que nos distingue
     imageUrl: /img/javardh-680975-unsplash.jpg
@@ -63,18 +63,18 @@ values:
       privilegiados de autoestradas, estradas nacionais e transportes públicos.
 
       Inserida num bairro calmo, com a distânica qb do centro da cidade,
-      proporciona um ambiente calmo e agradável aos utentes. 
+      proporciona um ambiente calmo e agradável aos utentes.
 
       A comunidade terapêutica tem à disposição tratamento na área da saúde
       mental numa vertente integrativa, multidisciplinar num ambiente continente
       e protetor dirigida a indivíduos de ambos os sexos em regime de
-      internamento e ambulatório. 
+      internamento e ambulatório.
 
       A Casa da Oliveira conta com uma equipa multidisciplinar constituída por
       Psicólogos Clínicos, Médicos Psiquiatras, Enfermeiros Especialistas em
       Saúde Mental e outros profissionais da área Psicossocial cujo objetivo
       comum visa a estabilização do quadro clínico, reeducação e reintegração
-      social do utente. 
+      social do utente.
 
   - heading: Instalações
     imageUrl: /img/arif-riyanto-1097354-unsplash.jpg
@@ -103,7 +103,7 @@ values:
       Intervenção Individual é único e integra não só o acompanhamento
       psicoterapêutico e psiquiátrico, como a realização de atividades físicas,
       artísticas e lúdicas. Para cada caso clínico é nomeado um terapeuta de
-      referência que serve de elo de ligação entre o utente e a família. 
+      referência que serve de elo de ligação entre o utente e a família.
 
       Disponibilizamos também tratamento, na área da saúde mental, em regime de
       clínica de dia, com acesso a todos os serviços de acompanhamento
@@ -112,4 +112,3 @@ values:
       dispõem igualmente de um Plano de Intervenção Individual e de um terapeuta
       de referência.
 ---
-

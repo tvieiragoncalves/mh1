@@ -25,7 +25,7 @@ products:
       Situada em Coimbra, região centro do país, com acessos rodoviários privilegiados de autoestradas, estradas nacionais e transportes públicos. Inserida num bairro calmo, com a distânica qb do centro da cidade, proporciona um ambiente calmo e agradável aos utentes. A comunidade terapêutica tem à disposição tratamento na área da saúde mental numa vertente integrativa, multidisciplinar num ambiente continente e protetor dirigida a indivíduos de ambos os sexos em regime de internamento e ambulatório.
   - image: /img/home.png
     text: >-
-      Disponibilizamos múltiplos espaços de lazer, como ginásio, material e espaços para leitura, piscina, jardim exterior, sala de convívio para além de material e lugares afetos a atividades individuais e de interação. Dirigimos o nosso trabalho para a reintegração familiar e psicossocial, escolar/académica e profissional. O staff profissional da Casa da Oliveira fará sempre o Follow-up de todos os processos. 
+      Disponibilizamos múltiplos espaços de lazer, como ginásio, material e espaços para leitura, piscina, jardim exterior, sala de convívio para além de material e lugares afetos a atividades individuais e de interação. Dirigimos o nosso trabalho para a reintegração familiar e psicossocial, escolar/académica e profissional. O staff profissional da Casa da Oliveira fará sempre o Follow-up de todos os processos.
 values:
   heading: O que nos destingue
   text: >-
