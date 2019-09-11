@@ -1,6 +1,6 @@
 ---
 title: Os nossos serviços
-image: /img/whatsapp-image-2019-08-29-at-07.11.36-2-.jpeg
+image: /img/nathan-anderson-157614-unsplash.jpg
 heading: 'Serviços de Internamento, psiquiatria e psicoterapia'
 description: .
 intro:
@@ -92,5 +92,5 @@ testimonials:
       Esta ajuda teve um impacto determinante na minha vida, agradeço a todos a
       atenção.
 full_image: /img/samuel-zeller-358865-unsplash.jpg
-
 ---
+
