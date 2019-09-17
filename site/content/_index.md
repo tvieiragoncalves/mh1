@@ -8,7 +8,7 @@ blurb:
     A Casa da Oliveira é a concretização de um projeto de quatro profissionais
     de saúde mental com largos anos de experiência em contexto de internamento
     psiquiátrico. Situada em Coimbra, numa vila a 3 minutos da zona centro da
-    cidade, proporciona um ambiente calmo e agradável aos utentes.
+    cidade, proporcionando um ambiente calmo e agradável aos utentes.
 
 intro:
   heading: De que serviços dispomos?
@@ -16,9 +16,9 @@ intro:
     A Casa da Oliveira é um novo conceito de abordagem ao tratamento e
     recuperação de pessoas com perturbações do foro mental, em situação aguda ou
     crónica. Sob a orientação de quatro profissionais da área da saúde mental, a
-    tempo inteiro, com forte experiência profissional multifacetada, visa a
-    aplicação de práticas inovadoras de intervenção em contexto de internamento
-    psiquiátrico.
+    tempo inteiro, com forte experiência profissional multifacetada, a Casa da
+    Oliveira visa a aplicação de práticas inovadoras de intervenção em contexto
+    de internamento psiquiátrico.
 products:
   - heading: Localização
     image: /img/iconfinder_580_search_medical_glass_4212192.svg
