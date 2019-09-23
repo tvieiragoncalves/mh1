@@ -1,6 +1,6 @@
 ---
 title: Venha conhecer-nos
-image: /img/casavistageral.jpg
+image: /img/img_20190901_100539.jpg
 values:
   - heading: Filosofia
     imageUrl: /img/sala.jpg
