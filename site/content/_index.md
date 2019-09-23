@@ -1,7 +1,7 @@
 ---
 title: 'Casa da Oliveira '
 subtitle: Clínica de Saúde Psiquiátrica de Coimbra
-image: /img/img_20190901_100719.jpg
+image: /img/casa.jpg
 blurb:
   heading: Quem somos?
   text: >+
