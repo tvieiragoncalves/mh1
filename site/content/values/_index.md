@@ -1,9 +1,9 @@
 ---
 title: Venha conhecer-nos
-image: /img/steinar-engeland-225236-unsplash.jpg
+image: /img/casavistageral.jpg
 values:
   - heading: Filosofia
-    imageUrl: /img/arvin-chingcuangco-1337417-unsplash.jpg
+    imageUrl: /img/sala.jpg
     text: >+
       A Casa da Oliveira é um novo conceito de abordagem ao tratamento e
       recuperação de pessoas com perturbações do foro mental, em situação aguda
@@ -27,7 +27,7 @@ values:
       resultados mais eficazes.
 
   - heading: O que nos distingue
-    imageUrl: /img/javardh-680975-unsplash.jpg
+    imageUrl: /img/exterior.jpg
     text: >
       Na Casa da Oliveira é elaborado, para cada utente, um projeto de
       intervenção único, que integra uma abordagem multidisciplinar,
@@ -75,7 +75,7 @@ values:
       social do utente.
 
   - heading: Instalações
-    imageUrl: /img/arif-riyanto-1097354-unsplash.jpg
+    imageUrl: /img/quarto.jpg
     text: >+
       A Casa da Oliveira – Clínica de Saúde Psiquiátrica de Coimbra dispõe de
       capacidade de internamento de 14 utentes, em quartos individuais ou duplos
@@ -93,7 +93,7 @@ values:
       praia, entre outras.
 
   - heading: O que fazemos
-    imageUrl: /img/pic02.jpg
+    imageUrl: /img/logo.jpg
     text: >
       A Casa da Oliveira dispõe de tratamento, na área da saúde mental, em
       regime de internamento com acompanhamento multidisciplinar. 
