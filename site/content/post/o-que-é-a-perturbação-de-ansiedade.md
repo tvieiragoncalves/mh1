@@ -5,3 +5,5 @@ description: "As perturbações de ansiedade são caracterizadas sobretudo pela 
 image: /img/youssef-naddam-1144792-unsplash.jpg
 ---
 Em termos de sintomatologia comum destacamos a agitação, nervosismo, fadiga fácil, dificuldades de concentração, irritabilidade, tensão muscular e insónia, o que origina níveis significativos de sofrimento e comprometimento em várias áreas de vida.
+
+Texto de [Mh resources](https://www.mhresources.pt/)
