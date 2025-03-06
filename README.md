@@ -11,3 +11,8 @@ gulp server  na página '/'
 Usa GoHugo
 
 
+
+passo 1 - correr yarn install 
+passo 2 - gulp server
+
+Dei fix nas compatibilidades das dependências em package.json   06/03/2025   Tiago
